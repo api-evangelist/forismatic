@@ -1,0 +1,32 @@
+aid: forismatic
+name: Forismatic
+description: "Inspirational Quotes"
+url: http://forismatic.com/en/api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Personality"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Personality
+  - Public APIs
+apis:
+  - name: Forismatic
+    description: "Inspirational Quotes"
+    humanURL: http://forismatic.com/en/api/
+    baseURL: http://forismatic.com/en/api/
+    tags:
+      - Personality
+    properties:
+      - type: Documentation
+        url: http://forismatic.com/en/api/
+common:
+  - type: Website
+    url: http://forismatic.com/en/api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
