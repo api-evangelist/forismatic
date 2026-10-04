@@ -39,7 +39,6 @@ apis:
   - name: Forismatic
     description: "Inspirational Quotes"
     humanURL: http://forismatic.com/en/api/
-    baseURL: http://forismatic.com/en/api/
     tags:
       - Personality
     properties:
