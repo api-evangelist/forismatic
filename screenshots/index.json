@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "forismatic",
+    "captured_at": "2026-10-11T185751",
+    "source_url": "http://forismatic.com/en/api/",
+    "source_type": "Website",
+    "file": "forismatic-2026-10-11T185751.png",
+    "bytes": 80104,
+    "capture": "playwright-local"
+  }
+]
